@@ -67,9 +67,10 @@
 
 ### GitHub Stats:
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadgamage&show_icons=true&theme=radical)
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadkgamage&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgamage&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadkgamage&layout=compact&theme=radical)
+
 
 ### Connect with Me:
 
