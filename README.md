@@ -1,3 +1,4 @@
+![My Exciting GIF](https://github.com/username/repository-name/blob/main/your-gif-file.gif)
 <div align="center">
   <h3>Hi there, I'm <font color="blue">Prasad K Gamage</font>! 👋</h3>
 </div>
