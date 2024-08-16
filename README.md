@@ -12,8 +12,9 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Apart from my passion for technology, I'm a coffee enthusiast and love exploring new cafes in my free time! I'm also an avid traveler and enjoy immersing myself in different cultures.<hr>
+⚡ Fun fact: Apart from my passion for technology, I'm a coffee enthusiast and love exploring new cafes in my free time! I'm also an avid traveler and enjoy immersing myself in different cultures.
 
+<hr>
 
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,8 +45,6 @@
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 
-
-
 ### Frameworks & Libraries:
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 - ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
@@ -58,14 +57,13 @@
 - ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 - ![HSQLDB](https://img.shields.io/badge/-HSQLDB-008B8B?style=flat&logo=hsqldb&logoColor=white)
-- ![Superbase](https://img.shields.io/badge/-Superbase-2ECC71?style=flat&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/-Supabase-2ECC71?style=flat&logo=supabase&logoColor=white)
 
 ### Containerization & Cloud Services:
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
 
 ### GitHub Stats:
 
@@ -83,5 +81,3 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/thilaacreations)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prasadkau97)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/prasadkaushalya)
-
-
