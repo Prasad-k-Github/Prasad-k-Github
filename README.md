@@ -1,5 +1,5 @@
-<div align="center">
   ![My Exciting GIF](https://github.com/Prasad-k-Github/Prasad-k-Github/blob/main/81178b47a8598f0c81c4799f2cdd4057.gif)
+<div align="center">
   <h3>Hi there, I'm <font color="blue">Prasad K Gamage</font>! 👋</h3>
 </div>
 
