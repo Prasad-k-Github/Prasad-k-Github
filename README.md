@@ -11,7 +11,7 @@
 
 💞️ I’m actively seeking opportunities to collaborate on projects that make a positive impact and contribute to the community. Whether it's developing software solutions for social good or contributing to open-source projects, I'm eager to be part of initiatives that drive positive change.
 
-📫 You can reach me via my [website](https://www.prasadkgamage.com), where you can find my portfolio and contact information. Additionally, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/). I'm always open to networking and discussing potential collaborations.
+📫 You can reach me via my [website](https://www.prasadkgamage.com), where you can find my portfolio and contact information. Additionally, feel free to connect with me on [LinkedIn](www.linkedin.com/in/thilina-prasad-kaushalya-3a97992b1). I'm always open to networking and discussing potential collaborations.
 
 😄 Pronouns: He/Him
 
